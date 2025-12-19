@@ -1,0 +1,5 @@
+{
+  "name": "Zen Hanoi - Recursive Challenge",
+  "description": "A polished, interactive Tower of Hanoi game featuring manual play and an automated recursive solver with smooth animations.",
+  "requestFramePermissions": []
+}
